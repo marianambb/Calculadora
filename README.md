@@ -3,4 +3,5 @@
 
 - Linguagem de programação utilizada: Java.
 - Toda a interface foi realizada utilizando o recurso JFrame do próprio Java.
+- Possui função de trocar o tema (claro e escuro).
 - Código desenvolvido na IDE Eclipse.
